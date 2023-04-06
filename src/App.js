@@ -15,8 +15,6 @@ export default class App extends Component {
   apiKey= process.env.REACT_APP_NEWS_API
 
 
-
-
   render() {
     return (
 
